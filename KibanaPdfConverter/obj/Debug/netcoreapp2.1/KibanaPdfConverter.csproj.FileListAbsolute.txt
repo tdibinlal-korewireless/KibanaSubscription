@@ -10,3 +10,15 @@ C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaPdfConverter\bin\Debug
 C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.csprojAssemblyReference.cache
 C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.dll
 C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.pdb
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\bin\Debug\netcoreapp2.1\KibanaPdfConverter.dll.config
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\bin\Debug\netcoreapp2.1\KibanaPdfConverter.deps.json
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\bin\Debug\netcoreapp2.1\KibanaPdfConverter.runtimeconfig.json
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\bin\Debug\netcoreapp2.1\KibanaPdfConverter.runtimeconfig.dev.json
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\bin\Debug\netcoreapp2.1\KibanaPdfConverter.dll
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\bin\Debug\netcoreapp2.1\KibanaPdfConverter.pdb
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.csprojAssemblyReference.cache
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.csproj.CoreCompileInputs.cache
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.AssemblyInfoInputs.cache
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.AssemblyInfo.cs
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.dll
+C:\Users\tdibinlal\Workspace\POC\KibanaPdfConverter\KibanaSubscription\KibanaPdfConverter\obj\Debug\netcoreapp2.1\KibanaPdfConverter.pdb

@@ -5,7 +5,7 @@
             public Schedule schedule = new Schedule();
             public class Schedule
             {
-                public string interval { get; set; }
+                public Daily daily = new Daily();
             }
         }
       

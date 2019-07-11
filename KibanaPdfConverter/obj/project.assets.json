@@ -993,11 +993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tdibinlal\\Workspace\\POC\\KibanaPdfConverter\\KibanaPdfConverter\\KibanaPdfConverter.csproj",
+      "projectUniqueName": "C:\\Users\\tdibinlal\\Workspace\\POC\\KibanaPdfConverter\\KibanaSubscription\\KibanaPdfConverter\\KibanaPdfConverter.csproj",
       "projectName": "KibanaPdfConverter",
-      "projectPath": "C:\\Users\\tdibinlal\\Workspace\\POC\\KibanaPdfConverter\\KibanaPdfConverter\\KibanaPdfConverter.csproj",
+      "projectPath": "C:\\Users\\tdibinlal\\Workspace\\POC\\KibanaPdfConverter\\KibanaSubscription\\KibanaPdfConverter\\KibanaPdfConverter.csproj",
       "packagesPath": "C:\\Users\\tdibinlal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tdibinlal\\Workspace\\POC\\KibanaPdfConverter\\KibanaPdfConverter\\obj\\",
+      "outputPath": "C:\\Users\\tdibinlal\\Workspace\\POC\\KibanaPdfConverter\\KibanaSubscription\\KibanaPdfConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
